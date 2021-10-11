@@ -10,8 +10,32 @@
     min-height: 50px;
     background-color: blue;
 }
-
+/* header */
 .jumbo .col-12 {
     height: 100px;
     background-color: green;
+}
+
+/* main */
+.portfolio .col-12 {
+    height: 100px;
+    background-color: rgb(255, 45, 157);
+}
+
+.about {
+    background-color: greenyellow;
+}
+
+.contact {
+    background-color: rgb(133, 0, 0);
+}
+
+
+/* footer */
+.f-up .col-12 {
+    background-color: hotpink;
+}
+
+.f-down .col-12 {
+    background-color: indigo;
 }
